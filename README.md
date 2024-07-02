@@ -29,10 +29,11 @@ I'm a software developer passionate about driving process improvements and creat
   ![HubSpot](https://img.shields.io/badge/-HubSpot-333333?style=flat&logo=hubspot)
 
 ## Certifications
-<p align="center">
-  <img src="pmi-capm.png" alt="CAPM" width="100" style="margin: 0 50px;" />
-  <img src="AWS.png" alt="AWS Certified Cloud Practitioner" width="100" style="margin: 0 50px;" />
-  <img src="PRINCE-2-badge.png" alt="PRINCE2" width="100" style="margin: 0 50px;" />
+<p align="left">
+  <img src="pmi-capm.png" alt="CAPM" width="100" style="margin: 0 100px;"/>
+  <img src="AI-PMI.png" alt="PMI-AI" width="100" style="margin: 0 100px;" />
+  <img src="AWS.png" alt="AWS Certified Cloud Practitioner" width="100" style="margin: 0 100px;" />
+  <img src="PRINCE-2-badge.png" alt="PRINCE2" width="100" style="margin: 0 100px;" />
 </p>
 
 ## Education
