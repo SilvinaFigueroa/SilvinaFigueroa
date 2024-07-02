@@ -30,10 +30,10 @@ I'm a software developer passionate about driving process improvements and creat
 
 ## Certifications
 <div style="display : flex; justify-content: space-around">
-  <img src="pmi-capm.png" alt="CAPM" width="100" style="margin: 0 50px;"/>
-  <img src="AI-PMI.png" alt="PMI-AI" width="100" style="margin: 0 50px;"/>
-  <img src="AWS.png" alt="AWS Certified Cloud Practitioner" width="100" style="margin: 0 50px;"/>
-  <img src="PRINCE-2-badge.png" alt="PRINCE2" width="100" style="margin: 0 50px;"/>
+  <img src="pmi-capm.png" alt="CAPM" width="100"/>&nbsp;&nbsp;&nbsp;
+  <img src="AI-PMI.png" alt="PMI-AI" width="100"/>&nbsp;&nbsp;
+  <img src="AWS.png" alt="AWS Certified Cloud Practitioner" width="100"/>&nbsp;&nbsp;
+  <img src="PRINCE-2-badge.png" alt="PRINCE2" width="100"/>
 </div>
 
 ## Education
