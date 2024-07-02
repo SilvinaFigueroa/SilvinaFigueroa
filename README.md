@@ -29,32 +29,40 @@ I'm a software developer passionate about driving process improvements and creat
   ![HubSpot](https://img.shields.io/badge/-HubSpot-333333?style=flat&logo=hubspot)
 
 ## Certifications
-<p>
+<div style="display : flex; justify-content: space-around">
   <img src="pmi-capm.png" alt="CAPM" width="100" style="margin: 0 50px;"/>
   <img src="AI-PMI.png" alt="PMI-AI" width="100" style="margin: 0 50px;"/>
   <img src="AWS.png" alt="AWS Certified Cloud Practitioner" width="100" style="margin: 0 50px;"/>
   <img src="PRINCE-2-badge.png" alt="PRINCE2" width="100" style="margin: 0 50px;"/>
-</p>
+</div>
 
 ## Education
-<table style="border: none; background: none;">
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none;"><img src="perscholas-logo.svg" alt="Per Scholas" width="100"/></td>
-    <td style="border: none; background: none;"><b>Software Engineer Training</b> (April 2024 - August 2024)</td>
-  </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none;"><img src="SeattleCentral.png" alt="Seattle Central College" width="100"/></td>
-    <td style="border: none; background: none;"><b>Certificate in Computing Science</b> (January 2023 - December 2023)</td>
-  </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none;"><img src="NCI-Logo.svg" alt="National College of Ireland" width="100"/></td>
-    <td style="border: none; background: none;"><b>Higher Diploma in Computing Science</b> (January 2021 - January 2022)</td>
-  </tr>
-  <tr style="border: none; background: none;">
-    <td style="border: none; background: none;"><img src="funenseg-logo.png" alt="National Insurance School" width="100"/></td>
-    <td style="border: none; background: none;"><b>MBA in Insurance and Reinsurance</b> (March 2018 - December 2020)</td>
-  </tr>
-</table>
+<div style="display: table; width: 100%; border-collapse: collapse; background: none;">
+  <div style="display: table-row; border: none; background: none;">
+    <div style="display: table-cell; border: none; width: 150px;">
+      <img src="perscholas-logo.svg" alt="Per Scholas" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <b>Software Engineer Training</b> (April 2024 - August 2024)
+    </div>
+  </div>
+  <div style="display: table-row; border: none; background: none;">
+    <div style="display: table-cell; border: none; width: 150px;">
+      <img src="SeattleCentral.png" alt="Seattle Central College" width="100"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <b>Certificate in Computing Science</b> (January 2023 - December 2023)
+    </div>
+  </div>
+  <div style="display: table-row; border: none; background: none;">
+    <div style="display: table-cell; border: none; width: 50px;">
+      <img src="NCI-Logo.svg" alt="National College of Ireland" width="80"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <b>Higher Diploma in Computing Science</b> (January 2021 - January 2022)
+    </div>
+  </div>
+  <div style="display: table-row; border: none; background: none;">
+    <div style="display: table-cell; border: none; width: 150px;">
+      <img src="funenseg-logo.png" alt="National Insurance School" width="100"/>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <b>MBA in Insurance and Reinsurance</b> (March 2018 - December 2020)
+    </div>
+  </div>
+</div>
 
 ## Let's Connect
 <p>
