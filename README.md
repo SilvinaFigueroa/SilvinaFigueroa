@@ -28,7 +28,25 @@ I'm a software developer passionate about driving process improvements and creat
 - **Project Management Tools**:
   ![HubSpot](https://img.shields.io/badge/-HubSpot-333333?style=flat&logo=hubspot)
 
+## Certifications
+<p align="center">
+  <img src="pmi-capm.png" alt="CAPM" width="100" style="margin: 0 50px;" />
+  <img src="AWS.png" alt="AWS Certified Cloud Practitioner" width="100" style="margin: 0 50px;" />
+  <img src="PRINCE-2-badge.png" alt="PRINCE2" width="100" style="margin: 0 50px;" />
+</p>
+
+## Education
+<p><img src="perscholas-logo.svg" alt="Per Scholas" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Software Engineer Training</b> (April 2024 - August 2024)</p>
+<p><img src="SeattleCentral.png" alt="Seattle Central College" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Certificate in Computing Science</b> (January 2023 - December 2023) </p>
+<p><img src="NCI-Logo.svg" alt="National College of Ireland" width="50" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Higher Diploma in Computing Science</b> (January 2021 - January 2022) </p>
+<p><img src="funenseg-logo.png" alt="National Insurance School" width="100" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>MBA in Insurance and Reinsurance</b> (March 2018 - December 2020) </p>
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/silvinasfigueroa)
-- [Email](mailto:silvina.sfigueroa@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/silvinasfigueroa" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" width="80" />
+  </a>
+  <a href="mailto:silvina.sfigueroa@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" width="65" />
+  </a>
+</p>
