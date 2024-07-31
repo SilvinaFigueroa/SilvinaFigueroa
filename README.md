@@ -25,7 +25,7 @@ I'm a software developer passionate about driving process improvements and creat
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
   ![Airtable](https://img.shields.io/badge/-Airtable-333333?style=flat&logo=airtable)
 
-- **Project Management Tools**:
+- **Tools**:
   ![HubSpot](https://img.shields.io/badge/-HubSpot-333333?style=flat&logo=hubspot)
 
 ## Certifications
